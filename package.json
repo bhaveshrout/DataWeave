@@ -1,0 +1,20 @@
+{
+  "name": "dataweave",
+  "version": "1.0.0",
+  "description": "AI-powered web scraper that formats and analyzes data instantly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Web",
+    "Scraping"
+  ],
+  "author": "Bhavesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
